@@ -17,7 +17,8 @@
 
 **رابط التحميل:**
 ```
-https://github.com/abdolahokiya555-ctrl/AI-Game-Builder/releases/download/v1.0.0/app-release.apk
+https://github.com/abdolahokiya555-ctrl/AI-Game-Builder/releases/download/v1.0.0/app-release-main.zip
+
 ```
 
 ## 🚀 الخطوات السريعة
